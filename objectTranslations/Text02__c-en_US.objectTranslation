@@ -8,5 +8,15 @@
         <plural>true</plural>
         <value>Setting02</value>
     </caseValues>
+    <fields>
+        <help><!-- testing settting02 --></help>
+        <label><!-- fr01 --></label>
+        <name>fr01__c</name>
+    </fields>
+    <fields>
+        <help><!-- dbjq --></help>
+        <label><!-- fr02 --></label>
+        <name>fr02__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

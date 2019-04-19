@@ -59,11 +59,6 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>PPSET</pluralLabel>
-    <recordTypes>
-        <fullName>xyzrecordtype</fullName>
-        <active>true</active>
-        <label>xyzrecordtype</label>
-    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

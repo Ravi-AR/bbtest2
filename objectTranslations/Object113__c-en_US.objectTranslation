@@ -8,5 +8,14 @@
         <plural>true</plural>
         <value>Object113s</value>
     </caseValues>
+    <fields>
+        <label><!-- email --></label>
+        <name>email__c</name>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>user1__c</name>
+        <relationshipLabel><!-- Object113s --></relationshipLabel>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

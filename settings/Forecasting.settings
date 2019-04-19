@@ -232,6 +232,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -290,6 +294,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -456,6 +461,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -514,6 +523,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -684,6 +694,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -743,6 +757,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -909,6 +924,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -967,6 +986,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -1137,6 +1157,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1196,6 +1220,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -1362,6 +1387,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1420,6 +1449,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -1586,6 +1616,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1644,6 +1678,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -1810,6 +1845,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -1868,6 +1907,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -2038,6 +2078,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2097,6 +2141,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -2263,6 +2308,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2321,6 +2370,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -2487,6 +2537,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2545,6 +2599,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>
@@ -2711,6 +2766,10 @@
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000WYzix</field>
+            <label>Case Test P1</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000ITMKm</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
@@ -2769,6 +2828,7 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00N6F00000RwXWI</field>
+            <field>00N6F00000WYzix</field>
             <field>00N6F00000ITMKm</field>
             <field>00N6F00000ITMKn</field>
             <field>00N6F00000ITMKo</field>

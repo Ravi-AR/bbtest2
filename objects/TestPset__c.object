@@ -59,26 +59,6 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>TestPsets</pluralLabel>
-    <recordTypes>
-        <fullName>PsetRecord1</fullName>
-        <active>true</active>
-        <label>PsetRecord1</label>
-    </recordTypes>
-    <recordTypes>
-        <fullName>PsetRecord2</fullName>
-        <active>true</active>
-        <label>PsetRecord2</label>
-    </recordTypes>
-    <recordTypes>
-        <fullName>PsetRecord3</fullName>
-        <active>true</active>
-        <label>PsetRecord3</label>
-    </recordTypes>
-    <recordTypes>
-        <fullName>recortype3</fullName>
-        <active>true</active>
-        <label>recortype3</label>
-    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

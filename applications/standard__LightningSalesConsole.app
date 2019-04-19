@@ -19,59 +19,51 @@
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
     <tabs>Case11533__c</tabs>
-    <tabs>Case11533_2__c</tabs>
-    <tabs>CommitLabel__c</tabs>
     <tabs>Object_11971__c</tabs>
-    <tabs>Obj_11383_1__c</tabs>
-    <tabs>Obj_11383_2__c</tabs>
-    <tabs>Obj_11383_3__c</tabs>
-    <tabs>X12191_Object__c</tabs>
-    <tabs>X12560__c</tabs>
-    <tabs>X12560_1__c</tabs>
-    <tabs>CIjobissue__c</tabs>
-    <tabs>X12748__c</tabs>
-    <tabs>X12355__c</tabs>
+    <tabs>DemoJam__c</tabs>
+    <tabs>AlignIssue__c</tabs>
+    <tabs>ObjectPermissions__c</tabs>
+    <tabs>X14944Object__c</tabs>
+    <tabs>commitLabel__c</tabs>
+    <tabs>X15009_Object__c</tabs>
+    <tabs>recreate__c</tabs>
+    <tabs>Object15500__c</tabs>
+    <tabs>ObjectStructure__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningSalesConsole_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
-            <tab>CIjobissue__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Case11533_2__c</tab>
+            <tab>AlignIssue__c</tab>
         </mappings>
         <mappings>
             <tab>Case11533__c</tab>
         </mappings>
         <mappings>
-            <tab>CommitLabel__c</tab>
+            <tab>DemoJam__c</tab>
         </mappings>
         <mappings>
-            <tab>Obj_11383_1__c</tab>
+            <tab>Object15500__c</tab>
         </mappings>
         <mappings>
-            <tab>Obj_11383_2__c</tab>
+            <tab>ObjectPermissions__c</tab>
         </mappings>
         <mappings>
-            <tab>Obj_11383_3__c</tab>
+            <tab>ObjectStructure__c</tab>
         </mappings>
         <mappings>
             <tab>Object_11971__c</tab>
         </mappings>
         <mappings>
-            <tab>X12191_Object__c</tab>
+            <tab>X14944Object__c</tab>
         </mappings>
         <mappings>
-            <tab>X12355__c</tab>
+            <tab>X15009_Object__c</tab>
         </mappings>
         <mappings>
-            <tab>X12560_1__c</tab>
+            <tab>commitLabel__c</tab>
         </mappings>
         <mappings>
-            <tab>X12560__c</tab>
-        </mappings>
-        <mappings>
-            <tab>X12748__c</tab>
+            <tab>recreate__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>
