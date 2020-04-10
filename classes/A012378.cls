@@ -4,6 +4,7 @@ public Account createAccount(String name)  //method to create account
 {
 //Test comment for Account A01234
 //Test1
+//fr test git dupliate
 Account a01123 = new Account();
 a01123 .Name = name;
 return a01123 ;
