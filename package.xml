@@ -1960,6 +1960,7 @@
     </types>
     <types>
         <members>replicatemark</members>
+        <members>replicatemark/emailfailure</members>
         <members>replicatemark/template01</members>
         <members>unfiled$public/Assign_home_Testing</members>
         <members>unfiled$public/Auto_Response_CS_KSA</members>
