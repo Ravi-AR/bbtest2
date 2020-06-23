@@ -270,6 +270,7 @@
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
         <members>TestClass01</members>
+        <members>TestClass02</members>
         <members>ValidateCommit1</members>
         <members>ValidateCommit2</members>
         <members>Webhook1</members>
