@@ -1,6 +1,6 @@
 <messaging:emailTemplate subject="emailfailure" recipientType="Contact" >
 <messaging:plainTextEmailBody >
 Congratulations!
-This is your new Visualforce Email Template.
+This is your new Visualforce Email Template. Added content to check the change in api
 </messaging:plainTextEmailBody>
 </messaging:emailTemplate>
